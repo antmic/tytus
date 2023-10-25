@@ -1,0 +1,10 @@
+body {
+	background-color: black;
+}
+
+.message,
+.dealer,
+.player {
+	color: white;
+	font-size: 20px;
+}
